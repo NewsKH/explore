@@ -12,6 +12,6 @@ items:
  - artsy/artsy.github.io
 display_name: GitHub Pages examples
 created_by: jdennes
-image: github-pages-examples.png
+image: wbsci.com
 ---
 Fine examples of projects using GitHub Pages (https://pages.github.com).
